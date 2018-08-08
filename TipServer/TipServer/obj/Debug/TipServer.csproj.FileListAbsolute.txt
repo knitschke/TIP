@@ -1,0 +1,8 @@
+C:\Users\Krzychu\source\repos\TipServer\TipServer\bin\Debug\TipServer.exe.config
+C:\Users\Krzychu\source\repos\TipServer\TipServer\bin\Debug\TipServer.exe
+C:\Users\Krzychu\source\repos\TipServer\TipServer\bin\Debug\TipServer.pdb
+C:\Users\Krzychu\source\repos\TipServer\TipServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Krzychu\source\repos\TipServer\TipServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Krzychu\source\repos\TipServer\TipServer\obj\Debug\TipServer.csproj.CoreCompileInputs.cache
+C:\Users\Krzychu\source\repos\TipServer\TipServer\obj\Debug\TipServer.exe
+C:\Users\Krzychu\source\repos\TipServer\TipServer\obj\Debug\TipServer.pdb
