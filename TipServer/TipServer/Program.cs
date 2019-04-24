@@ -22,7 +22,7 @@ namespace TipServer
         // Creates a connection with our database file.
         void connectToDatabase()
         {
-            m_dbConnection = new SQLiteConnection("Data Source=TipDB.db;Version=3;");
+            m_dbConnection = new SQLiteConnection("Data Source=C:\\TipDB.db;Version=3;");
             m_dbConnection.Open();
         }
 

@@ -1,0 +1,55 @@
+C:\Users\Krzychu\source\repos\tipy\tipy\bin\Debug\tipy.exe.config
+C:\Users\Krzychu\source\repos\tipy\tipy\bin\Debug\tipy.exe
+C:\Users\Krzychu\source\repos\tipy\tipy\bin\Debug\tipy.pdb
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.csprojResolveAssemblyReference.cache
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.Form1.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.Properties.Resources.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.csproj.GenerateResource.Cache
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.csproj.CoreCompileInputs.cache
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.exe
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.pdb
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.datachange.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.register.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.logged.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.list.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.Form0.resources
+C:\Users\Krzychu\source\repos\tipy\tipy\obj\Debug\tipy.blacklist.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\bin\Debug\tipy.exe.config
+C:\Users\daria\Desktop\tipy\tipy\tipy\bin\Debug\tipy.exe
+C:\Users\daria\Desktop\tipy\tipy\tipy\bin\Debug\tipy.pdb
+C:\Users\daria\Desktop\tipy\tipy\tipy\bin\Debug\NAudio.dll
+C:\Users\daria\Desktop\tipy\tipy\tipy\bin\Debug\NSpeex.dll
+C:\Users\daria\Desktop\tipy\tipy\tipy\bin\Debug\NAudio.xml
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.blacklist.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.datachange.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.Form0.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.Form1.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.register.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.list.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.ConnectionWindow.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.logged.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.Properties.Resources.resources
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.csproj.CopyComplete
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.exe
+C:\Users\daria\Desktop\tipy\tipy\tipy\obj\Debug\tipy.pdb
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\bin\Debug\tipy.exe.config
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\bin\Debug\tipy.exe
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\bin\Debug\tipy.pdb
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\bin\Debug\NAudio.dll
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\bin\Debug\NAudio.xml
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.blacklist.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.datachange.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.Form0.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.Form1.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.register.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.list.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.ConnectionWindow.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.logged.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.Properties.Resources.resources
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.csproj.GenerateResource.Cache
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.csproj.CoreCompileInputs.cache
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.exe
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.pdb
+C:\Users\Krzychu\Desktop\tipp\New folder\tipy\tipy\obj\Debug\tipy.csprojResolveAssemblyReference.cache
